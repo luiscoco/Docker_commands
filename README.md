@@ -49,7 +49,7 @@ Docker provides a way to create, deploy, and manage applications in a consistent
 
 Advantages and disadvantages of DOcker.
 
-Advantages:
+**Advantages**:
 
 Portability: Docker containers can run on any machine that supports Docker, making it easy to move applications between different environments.
 
@@ -62,7 +62,7 @@ Scalability: Docker makes it easy to scale applications up or down by adding or 
 Security: Docker provides isolation between containers, reducing the risk of security vulnerabilities.
 
 
-Disadvantages:
+**Disadvantages**:
 
 Complexity: Docker can be complex to set up and manage, especially for larger applications with multiple containers.
 
